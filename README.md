@@ -2,14 +2,14 @@
 
 ## Benchmarked Libraries
 
-* bson v3.7.2 (pymongo version)
-* cbor v1.0.0
-* json v2.0.9 (python v3.7.1)
-* msgpack v0.5.6
-* parquet v0.11.1 (pyarrow version)
-* pickle v3.7.1 (python version)
-* protobuf v3.6.1
-* ujson v1.35
+* bson v3.7.2 (pymongo version) | Current: v3.9.0
+* cbor v1.0.0 | Current: 
+* json v2.0.9 (python v3.7.1) | Current: 
+* msgpack v0.5.6  | Current: v1.0.0
+* parquet v0.11.1 (pyarrow version) | Current: 
+* pickle v3.7.1 (python version)  | Current: 
+* protobuf v3.6.1 | Current: 
+* ujson v1.35 | Current: 
 
 
 ## Results
